@@ -1,8 +1,8 @@
 ### Number/Numéros
 
-#### [![numb2](https://1blockatatime.github.io/English/images/numb2.PNG){:height="75px"}](https://1blockatatime.github.io/English/FR/FR_Number_I) [Apprendre números 1-10/Learn Numbers 1-10](https://1blockatatime.github.io/English/FR/FR_Number_I)   
+#### [![numb2](https://1blockatatime.github.io/English/images/numb2.PNG){:height="75px"}](https://english-homework.github.io/EFKBP/FR/FR_Number_I) [Apprendre números 1-10/Learn Numbers 1-10](https://english-homework.github.io/EFKBP/FR/FR_Number_I)   
 
-#### [![numb3](https://1blockatatime.github.io/English/images/numb3.PNG){:height="75px"}](https://1blockatatime.github.io/English/FR/FR_Number_II) [Apprendre números 1-20/Learn Numbers 1-20](https://1blockatatime.github.io/English/FR/FR_Number_II)    
+#### [![numb3](https://1blockatatime.github.io/English/images/numb3.PNG){:height="75px"}](https://english-homework.github.io/EFKBP/FR/FR_Number_II) [Apprendre números 1-20/Learn Numbers 1-20](https://english-homework.github.io/EFKBP/FR/FR_Number_II)    
 
 ### Language Structures
 
