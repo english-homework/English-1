@@ -1,6 +1,6 @@
 ### Number/Numéros
 
-#### [![numb2](https://1blockatatime.github.io/English/images/numb2.PNG){:height="75px"}](https://1blockatatime.github.io/English/FR/FR_Number_I) [![numb2bfr](https://1blockatatime.github.io/English/images/numb2bfr.PNG){:height="45px"}](https://1blockatatime.github.io/English/FR/FR_Number_I)   
+#### [![numb2](https://1blockatatime.github.io/English/images/numb2.PNG){:height="75px"}](https://english-homework.github.io/EFKBP/FR/FR_Number_I) [![numb2bfr](https://1blockatatime.github.io/English/images/numb2bfr.PNG){:height="45px"}](https://english-homework.github.io/EFKBP/FR/FR_Number_I)   
 
 ### Language Structures
 
