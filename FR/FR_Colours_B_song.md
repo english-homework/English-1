@@ -1,19 +1,14 @@
 ### Colours
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/y7nE4ADGaOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-<iframe width="187" height="105" src="https://www.youtube.com/embed/y7nE4ADGaOc" alt="Chanson traditionelle par AprenderYdivertirse" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- width="560" 
-[![rainb](https://1blockatatime.github.io/English/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) [I can sing a rainbow](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) (Chanson  traditionelle de AprenderYdivertirse)  -->
+[![rainb](https://1blockatatime.github.io/English/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) [I can sing a rainbow](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) (Chanson  traditionelle de AprenderYdivertirse)
 
 Red and yellow and pink and green, orange and purple and blue.  
 (Rouge et jaune et rose et vert, orange et violet et bleu.)   
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 (Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aussi.)  
 
-<!--![listen](https://1blockatatime.github.io/English/audio/listen.png){:height="35px"} + ![sing](/sing.PNG){:height="35px"}:-->
-<audio src="https://1blockatatime.github.io/English/audio/V1s2.m4a" controls preload></audio>  
+<!--![listen](https://1blockatatime.github.io/English/images/listen.png){:height="35px"} + ![sing](/sing.PNG){:height="35px"}:-->
+<audio src="https://1blockatatime.github.io/English/images/V1s2.m4a" controls preload></audio>  
 
 ![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="70px"} 
 
