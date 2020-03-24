@@ -1,5 +1,7 @@
 ### Colours
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7nE4ADGaOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 <iframe width="187" height="105" src="https://www.youtube.com/embed/y7nE4ADGaOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe height="75"
@@ -17,8 +19,8 @@ Red and yellow and pink and green, orange and purple and blue.
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 (Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aussi.)  
 
-<!--![listen](https://1blockatatime.github.io/English/images/listen.png){:height="35px"} + ![sing](/sing.PNG){:height="35px"}:-->
-<audio src="audio/V1s2.m4a" controls preload></audio>  
+<!--![listen](https://1blockatatime.github.io/English/audio/listen.png){:height="35px"} + ![sing](/sing.PNG){:height="35px"}:-->
+<audio src="https://1blockatatime.github.io/English/audio/V1s2.m4a" controls preload></audio>  
 
 ![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="70px"} 
 
