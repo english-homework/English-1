@@ -2,7 +2,7 @@
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/y7nE4ADGaOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="187" height="105" src="https://www.youtube.com/embed/y7nE4ADGaOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="187" height="105" src="https://www.youtube.com/embed/y7nE4ADGaOc" alt="Chanson traditionelle par AprenderYdivertirse" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- width="560" 
 [![rainb](https://1blockatatime.github.io/English/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) [I can sing a rainbow](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) (Chanson  traditionelle de AprenderYdivertirse)  -->
