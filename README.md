@@ -1,4 +1,4 @@
-<h2> 
+<!--<h2> 
 <p align="center">
 English
 </p>
@@ -14,7 +14,7 @@ English
   <br>
 </p>
 
-<!--<p align="center">
+<p align="center">
   <a href="english-homework.github.io/EFKBP/FR/FR_C">Year 3</a>
   <br>
 </p>
